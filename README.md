@@ -8,12 +8,14 @@
 Consists Of The Following Essential Topics 
 
 - Development Of Programming Logic
-- 
 - Pointer Handling And Operations
+- Dynamic Memory Allocation
 - Bit Manipulation
 - Object Oriented Programming
 - RAII
 - Working With STL (Standard Template Library)
+- Template And Generics
+- File Handling
 
 ## Data Structures And Algorithms Using C++
 
